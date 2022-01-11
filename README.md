@@ -1,4 +1,4 @@
-# KINGBOT SPAM BOT 
+# NGAMER SPAMMER BOT
 A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/HOSTING THIS U CAN SPAM ON TELEGRAM BY ONE COMMAND TO 10 ACCOUNT AT ONE TIME.
 
 <p align="center">
@@ -28,18 +28,18 @@ No required api hash or app/api id
 ### Contact Support
 Any queries or issue contact 
 
-https://t.me/KINGBOTOFFICIAL
-https://t.me/KINGBOTOFFICIALCHAT
+
+
 
 ### YouTube Tutorial
 
 Adding soon👀
 
 
-#### credit
-You can read
-[TEAM KINGBOT + TEAM YUKII](https://telegra.ph/Credits-07-09)
+
+
+
 
 ## Feedback / new suggestions
 
-Give Feeds/suggestions in this bot [🚀HERE](https://t.me/KINGBOT_feedbackbot)
+
